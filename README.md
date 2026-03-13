@@ -1,12 +1,12 @@
 # Hi 👋, I'm Umme Jami
 
 🎓 Computer Science & Engineering (CSE) Student  
-🚀 Passionate about problem solving and building real-world software systems
+🚀 Passionate about find out the point where a software can break.
 
 ---
 
 ## 👩‍💻 About Me
-- CSE student with strong interest in **software development** and **AI/ML**
+- CSE student with strong interest in **Software Quality Assurance** and **AI/ML**
 - Experienced in **Java-based desktop applications**
 - Actively working on academic and personal projects
 - Love learning new technologies and improving coding skills
@@ -18,7 +18,14 @@
 - **Frontend:** HTML, CSS, JavaScript, React  
 - **Backend:** Node.js, Express.js  
 - **Database:** MySQL
-- **Tools:** Git, GitHub, NetBeans 
+- **Tools:** Git, GitHub, NetBeans
+
+  
+- **Testing type:** Manual,API
+- **Bug Management:** Jira
+- **Tools:** Postman
+
+  
 - **Core Areas:**  
   - Object-Oriented Programming  
   - Data Structures & Algorithms  
@@ -37,9 +44,9 @@
 
 ## 📊 Currently Learning
 - LLM and advanced AI
-- Automation and script writting  
+- Automation testing  
 - Deep Learning & Neural Networks  
-- Backend Development with MERN  
+    
   
 
 ---
