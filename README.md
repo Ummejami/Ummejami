@@ -19,12 +19,12 @@
 - **Backend:** Node.js, Express.js  
 - **Database:** MySQL
 - **Tools:** Git, GitHub, NetBeans
-
+---
   
 - **Testing type:** Manual,API
 - **Bug Management:** Jira
 - **Tools:** Postman
-
+---
   
 - **Core Areas:**  
   - Object-Oriented Programming  
