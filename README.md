@@ -21,9 +21,9 @@
 - **Tools:** Git, GitHub, NetBeans
 ---
   
-- **Testing type:** Manual,API
+- **Testing type:** Manual, API, Performance and Load
 - **Bug Management:** Jira
-- **Tools:** Postman
+- **Tools:** Postman, Newman, Jmeter
 ---
   
 - **Core Areas:**  
