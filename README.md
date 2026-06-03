@@ -1,6 +1,6 @@
 # Hi 👋, I'm Umme Jami
 
-🎓 Computer Science & Engineering (CSE) Student  
+🎓 Fresh Graduate from Computer Science & Engineering (CSE) 
 🚀 Passionate about find out the point where a software can break.
 
 ---
