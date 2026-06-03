@@ -24,7 +24,7 @@
   
 - **Testing type:** Manual, API, Performance and Load
 - **Bug Management:** Jira
-- **Tools:** Postman, Newman, Jmeter
+- **Tools:** Postman, Newman, Jmeter, DBeaver
 ---
   
 - **Core Areas:**  
